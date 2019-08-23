@@ -1,27 +1,54 @@
 
-### OPPOå®‰å…¨åº”æ€¥å“åº”ä¸­å¿ƒ
+### OPPO°²È«Ó¦¼±ÏìÓ¦ÖÐÐÄ
 
-OPPOå®‰å…¨åº”æ€¥å“åº”ä¸­å¿ƒ(OSRC)å®˜æ–¹å…¬ä¼—å·ã€‚
+OPPO°²È«Ó¦¼±ÏìÓ¦ÖÐÐÄ(OSRC)¹Ù·½¹«ÖÚºÅ¡£
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_ab0a19ae353a" alt="" />
 
 ---
 
 
-### äº¬ä¸œå®‰å…¨åº”æ€¥å“åº”ä¸­å¿ƒ
+### ¾©¶«°²È«Ó¦¼±ÏìÓ¦ÖÐÐÄ
 
-äº¬ä¸œå®‰å…¨åº”æ€¥å“åº”ä¸­å¿ƒï¼ˆJSRCï¼‰å®˜æ–¹
+¾©¶«°²È«Ó¦¼±ÏìÓ¦ÖÐÐÄ£¨JSRC£©¹Ù·½
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_2f63c25b28a9" alt="" />
 
 ---
 
 
-### ç™¾åº¦å®‰å…¨åº”æ€¥å“åº”ä¸­å¿ƒ
+### °Ù¶È°²È«Ó¦¼±ÏìÓ¦ÖÐÐÄ
 
-ç™¾åº¦å®‰å…¨åº”æ€¥å“åº”ä¸­å¿ƒï¼Œç®€ç§°BSRCï¼Œæ˜¯ç™¾åº¦è‡´åŠ›äºŽç»´æŠ¤äº’è”ç½‘å¥åº·ç”Ÿæ€çŽ¯å¢ƒï¼Œä¿éšœç™¾åº¦äº§å“å’Œä¸šåŠ¡çº¿çš„ä¿¡æ¯å®‰å…¨ï¼Œä¿ƒè¿›å®‰å…¨ä¸“å®¶çš„åˆä½œä¸Žäº¤æµï¼Œè€Œå»ºç«‹çš„æ¼æ´žæ”¶é›†ä»¥åŠåº”æ€¥å“åº”å¹³å°ã€‚æ¬¢è¿Žè®¿é—®&nbsp;bsrc.baidu.com&nbsp;æäº¤ç™¾åº¦å®‰å…¨æ¼æ´žã€‚
+°Ù¶È°²È«Ó¦¼±ÏìÓ¦ÖÐÐÄ£¬¼ò³ÆBSRC£¬ÊÇ°Ù¶ÈÖÂÁ¦ÓÚÎ¬»¤»¥ÁªÍø½¡¿µÉúÌ¬»·¾³£¬±£ÕÏ°Ù¶È²úÆ·ºÍÒµÎñÏßµÄÐÅÏ¢°²È«£¬´Ù½ø°²È«×¨¼ÒµÄºÏ×÷Óë½»Á÷£¬¶ø½¨Á¢µÄÂ©¶´ÊÕ¼¯ÒÔ¼°Ó¦¼±ÏìÓ¦Æ½Ì¨¡£»¶Ó­·ÃÎÊ&nbsp;bsrc.baidu.com&nbsp;Ìá½»°Ù¶È°²È«Â©¶´¡£
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_016ff078c3cd" alt="" />
+
+---
+
+
+### Î¨Æ·»á°²È«Ó¦¼±ÏìÓ¦ÖÐÐÄ
+
+Î¨Æ·»á°²È«Ó¦¼±ÏìÓ¦ÖÐÐÄ(VSRC)¹Ù·½Î¢ÐÅ
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_64ca2e1d4d83" alt="" />
+
+---
+
+
+### µÎµÎ°²È«Ó¦¼±ÏìÓ¦ÖÐÐÄ
+
+µÎµÎ°²È«Ó¦¼±ÏìÓ¦ÖÐÐÄ¹Ù·½Î¢ÐÅ¹«ÖÚºÅ¡£»¶Ó­·ÃÎÊ&nbsp;sec.didichuxing.com&nbsp;Ìá½»µÎµÎ³öÐÐ°²È«Â©¶´
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_bce95b426cb7" alt="" />
+
+---
+
+
+### ÌÚÑ¶°²È«Ó¦¼±ÏìÓ¦ÖÐÐÄ
+
+ÌÚÑ¶°²È«Ó¦¼±ÏìÓ¦ÖÐÐÄ£¨TSRC£©¹Ù·½Î¢ÐÅ
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_fc624022782d" alt="" />
 
 ---
 

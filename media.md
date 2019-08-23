@@ -1,34 +1,34 @@
 
-### i春秋
+### i����
 
-专业的网络安全、信息安全、白帽子技术的培训平台及学习社区，60万安全用户的精准推荐。
+רҵ�����簲ȫ����Ϣ��ȫ����ñ�Ӽ�������ѵƽ̨��ѧϰ������60��ȫ�û��ľ�׼�Ƽ���
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_d5c25339a9e5" alt="" />
 
 ---
 
 
-### 合天智汇
+### �����ǻ�
 
-为广大信息安全爱好者提供有价值的文章推送服务！
+Ϊ�����Ϣ��ȫ�������ṩ�м�ֵ���������ͷ���
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_3b9faa7969d6" alt="" />
 
 ---
 
 
-### 极客公园
+### ���͹�԰
 
-用极客视角，追踪你最不可错过的科技圈。有快闻、也有洞见；有脑洞、也有思考。
+�ü����ӽǣ�׷������ɴ����ĿƼ�Ȧ���п��š�Ҳ�ж��������Զ���Ҳ��˼����
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=wxid_7762007624712" alt="" />
 
 ---
 
 
-### 实验楼
+### ʵ��¥
 
-实验楼是100万+技术学习者关注的IT在线实训平台，提供海量免费教程、技术干货和在线实验环境。官网www.shiyanlou.com
+ʵ��¥��100��+����ѧϰ�߹�ע��IT����ʵѵƽ̨���ṩ������ѽ̡̳������ɻ�������ʵ�黷��������www.shiyanlou.com
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_e794419207a0" alt="" />
 
@@ -37,27 +37,36 @@
 
 ### GeekPwn
 
-GeekPwn，全球首个关注智能生活的安全极客大赛！我们在寻找可能默默无闻但出类拔萃---注定可以改变世界、可以和我们一起保护未来的正能量---顶级&nbsp;Geek&nbsp;的思路、敢于&nbsp;Pwn&nbsp;破禁锢的你，这里是你的舞台，一起来，做到“极棒”！
+GeekPwn��ȫ���׸���ע��������İ�ȫ���ʹ�����������Ѱ�ҿ���ĬĬ���ŵ��������---ע�����Ըı����硢���Ժ�����һ�𱣻�δ����������---����&nbsp;Geek&nbsp;��˼·������&nbsp;Pwn&nbsp;�ƽ������㣬�����������̨��һ��������������������
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_72d9239e6429" alt="" />
 
 ---
 
 
-### 安在
+### ����
 
-人物、热点、互动、传播，有内涵的信息安全新媒体。
+����ȵ㡢���������������ں�����Ϣ��ȫ��ý�塣
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_374f075560ae" alt="" />
 
 ---
 
 
-### 青藤云安全资讯
+### �����ư�ȫ��Ѷ
 
-青藤云安全是最理解中国互联网企业的安全伙伴，这里我们一起关注互联网企业安全那些事。
+�����ư�ȫ���������й���������ҵ�İ�ȫ��飬��������һ���ע��������ҵ��ȫ��Щ�¡�
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_0b0a6d2572a4" alt="" />
+
+---
+
+
+### FreeBuf
+
+�������ȵĻ�������ȫ��ý��
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_7524f20253aa" alt="" />
 
 ---
 
