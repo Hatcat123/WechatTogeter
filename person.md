@@ -61,3 +61,57 @@
 
 ---
 
+
+### qz安全情报分析
+
+独到观点的安全情报分析
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_e4eaed342c88" alt="" />
+
+---
+
+
+### caoz的梦呓
+
+caoz的心得与分享，只此一家，别无分号。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_daa6a22fe907" alt="" />
+
+---
+
+
+### malwarebenchmark
+
+开源恶意代码基准测试（OMB，malwarebenchmark.org）持续跟踪全球最新恶意代码，实时发布网络空间安全以及恶意代码技术、分布、演变等信息，定期公开相关基准测试集合以及测评报告。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_01202b41c2f7" alt="" />
+
+---
+
+
+### 路人甲TM
+
+以前我也是个程序员
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_d516081071ec" alt="" />
+
+---
+
+
+### 纯洁的微笑
+
+一个有故事的程序员
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_d751b87d749e" alt="" />
+
+---
+
+
+### stormzhang
+
+前码农&amp;产品人，现创业者，终身学习者。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_8e217150b0ec" alt="" />
+
+---
+
