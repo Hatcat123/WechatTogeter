@@ -1,54 +1,72 @@
 
-### OPPO��ȫӦ����Ӧ����
+### OPPO安全应急响应中心
 
-OPPO��ȫӦ����Ӧ����(OSRC)�ٷ����ںš�
+OPPO安全应急响应中心(OSRC)官方公众号。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_ab0a19ae353a" alt="" />
 
 ---
 
 
-### ������ȫӦ����Ӧ����
+### 京东安全应急响应中心
 
-������ȫӦ����Ӧ���ģ�JSRC���ٷ�
+京东安全应急响应中心（JSRC）官方
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_2f63c25b28a9" alt="" />
 
 ---
 
 
-### �ٶȰ�ȫӦ����Ӧ����
+### 百度安全应急响应中心
 
-�ٶȰ�ȫӦ����Ӧ���ģ����BSRC���ǰٶ�������ά��������������̬���������ϰٶȲ�Ʒ��ҵ���ߵ���Ϣ��ȫ���ٽ���ȫר�ҵĺ����뽻������������©���ռ��Լ�Ӧ����Ӧƽ̨����ӭ����&nbsp;bsrc.baidu.com&nbsp;�ύ�ٶȰ�ȫ©����
+百度安全应急响应中心，简称BSRC，是百度致力于维护互联网健康生态环境，保障百度产品和业务线的信息安全，促进安全专家的合作与交流，而建立的漏洞收集以及应急响应平台。欢迎访问&nbsp;bsrc.baidu.com&nbsp;提交百度安全漏洞。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_016ff078c3cd" alt="" />
 
 ---
 
 
-### ΨƷ�ᰲȫӦ����Ӧ����
+### 美丽联合集团安全应急响应中心
 
-ΨƷ�ᰲȫӦ����Ӧ����(VSRC)�ٷ�΢��
+美联安全应急响应中心（MLSRC）官方微信
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_18f5c6e88543" alt="" />
+
+---
+
+
+### 唯品会安全应急响应中心
+
+唯品会安全应急响应中心(VSRC)官方微信
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_64ca2e1d4d83" alt="" />
 
 ---
 
 
-### �εΰ�ȫӦ����Ӧ����
+### 滴滴安全应急响应中心
 
-�εΰ�ȫӦ����Ӧ���Ĺٷ�΢�Ź��ںš���ӭ����&nbsp;sec.didichuxing.com&nbsp;�ύ�εγ��а�ȫ©��
+滴滴安全应急响应中心官方微信公众号。欢迎访问&nbsp;sec.didichuxing.com&nbsp;提交滴滴出行安全漏洞
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_bce95b426cb7" alt="" />
 
 ---
 
 
-### ��Ѷ��ȫӦ����Ӧ����
+### 腾讯安全应急响应中心
 
-��Ѷ��ȫӦ����Ӧ���ģ�TSRC���ٷ�΢��
+腾讯安全应急响应中心（TSRC）官方微信
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_fc624022782d" alt="" />
+
+---
+
+
+### 阿里安全响应中心
+
+阿里巴巴安全应急响应中心官方微信公众号
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_3370d740b562" alt="" />
 
 ---
 
