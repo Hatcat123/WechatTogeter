@@ -97,3 +97,12 @@
 
 ---
 
+
+### SIGAI
+
+全方位覆盖AI经典算法与工业应用，紧跟业界新趋势，让你始终站在技术前沿。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_0339db23ffb8" alt="" />
+
+---
+

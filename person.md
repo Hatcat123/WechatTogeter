@@ -142,3 +142,66 @@ caoz的心得与分享，只此一家，别无分号。
 
 ---
 
+
+### 安全回忆录
+
+专注于网络攻防技术的研究与分享！
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_1ea90d8359c5" alt="" />
+
+---
+
+
+### 威胁情报小屋
+
+个人公众号！仅代表个人观点！内容：威胁情报，国际威胁组织动态记录。督促自己学习……感谢大佬们关注
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_973a79d334d3" alt="" />
+
+---
+
+
+### 道法术
+
+道，技术与哲学；法，根本与原理；术，技能与方法。网络安全从业
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_141164bf887e" alt="" />
+
+---
+
+
+### baronpan
+
+就是写点东西用来对外发
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_4bbfda675dee" alt="" />
+
+---
+
+
+### 小强说
+
+发布IT、信息安全等领域的资讯信息、个人观点
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_f21087ab2dc6" alt="" />
+
+---
+
+
+### 汉客儿
+
+分享原创技术文章和工具，包括但不限于逆向破解、编程技术、漏洞分析、漏洞挖掘、系统原理等，欢迎交流。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_418dfd27e592" alt="" />
+
+---
+
+
+### 安全喷子
+
+自己一些行业见解，权当我是喷子。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_2a9c00f1d053" alt="" />
+
+---
+

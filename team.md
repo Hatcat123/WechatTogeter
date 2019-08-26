@@ -151,3 +151,48 @@ secquan.org汇聚新锐&nbsp;共同进步
 
 ---
 
+
+### 安比实验室
+
+硬核区块链技术团队，致力于参与共建共识、可信、有序的区块链经济体。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_c6d70d53bd1f" alt="" />
+
+---
+
+
+### 新兴产业研究中心
+
+致力于新兴产业研究与个股投资机会挖掘。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_71d471ba7007" alt="" />
+
+---
+
+
+### 天融信阿尔法实验室
+
+天融信阿尔法实验室将不定期推出技术研究新方向成果，专注安全攻防最前沿技术
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_0b0b1747bf15" alt="" />
+
+---
+
+
+### 天御攻防实验室
+
+专注威胁感知、威胁猎杀、高级威胁检测，Adversary&nbsp;Simulation、Adversary&nbsp;Detection、Adversary&nbsp;Resilience
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_5206deb3cebc" alt="" />
+
+---
+
+
+### PolarisLab
+
+勾陈安全实验室&nbsp;Www.Polaris-Lab.Com
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_4c7b624d40b3" alt="" />
+
+---
+
