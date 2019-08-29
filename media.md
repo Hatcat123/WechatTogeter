@@ -134,15 +134,6 @@ E安全&nbsp;|&nbsp;全球网络安全资讯新传媒&nbsp;&nbsp;&nbsp;&nbsp;新
 ---
 
 
-### 中国信息安全
-
-《中国信息安全》杂志，介绍国内外最新网络安全动态，深度解读网络安全事件。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_df6e5fff90d7" alt="" />
-
----
-
-
 ### 网络空间安全军民融合创新中心
 
 作为我国首个军地沟通、军地协同的网络空间安全军民融合发展产业平台，聚焦网络空间国防安全领域，探索建立网络国防安全装备建设的军民深度融合创新发展模式，致力于打造成为我军装备发展网络空间安全领域的民间智库。
@@ -157,6 +148,15 @@ E安全&nbsp;|&nbsp;全球网络安全资讯新传媒&nbsp;&nbsp;&nbsp;&nbsp;新
 《网信军民融合》杂志提供网络安全、信息化、军民融合资讯和咨询服务，为网信企业“民参军”、“军转民”搭建桥梁，致力于成为党政军企共推网信军民融合发展的高端平台。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_8c401165e9ac" alt="" />
+
+---
+
+
+### 中国信息安全
+
+《中国信息安全》杂志，介绍国内外最新网络安全动态，深度解读网络安全事件。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_df6e5fff90d7" alt="" />
 
 ---
 
