@@ -7,3 +7,21 @@
 
 ---
 
+
+### malwarebenchmark
+
+开源恶意代码基准测试（OMB，malwarebenchmark.org）持续跟踪全球最新恶意代码，实时发布网络空间安全以及恶意代码技术、分布、演变等信息，定期公开相关基准测试集合以及测评报告。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_01202b41c2f7" alt="" />
+
+---
+
+
+### 看雪学院
+
+致力于移动与安全研究的开发者社区，看雪学院(kanxue.com)官方微信公众帐号。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_e7e71fe92c19" alt="" />
+
+---
+

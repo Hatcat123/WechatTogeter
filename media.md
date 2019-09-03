@@ -178,3 +178,12 @@ E安全&nbsp;|&nbsp;全球网络安全资讯新传媒&nbsp;&nbsp;&nbsp;&nbsp;新
 
 ---
 
+
+### Sobug安全平台
+
+SOBUG是国内首家漏洞悬赏平台，通过聚集安全行业精英，为有安全意识和需求的各类企业提供专业化的网络安全服务，帮助企业避免因漏洞带来的安全风险和经济损失。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_591daf7b19e9" alt="" />
+
+---
+

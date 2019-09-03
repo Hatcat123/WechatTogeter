@@ -107,15 +107,6 @@ caoz的心得与分享，只此一家，别无分号。
 ---
 
 
-### malwarebenchmark
-
-开源恶意代码基准测试（OMB，malwarebenchmark.org）持续跟踪全球最新恶意代码，实时发布网络空间安全以及恶意代码技术、分布、演变等信息，定期公开相关基准测试集合以及测评报告。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_01202b41c2f7" alt="" />
-
----
-
-
 ### 路人甲TM
 
 以前我也是个程序员
@@ -202,6 +193,24 @@ caoz的心得与分享，只此一家，别无分号。
 自己一些行业见解，权当我是喷子。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_2a9c00f1d053" alt="" />
+
+---
+
+
+### lovesec
+
+专注信息安全/渗透测试
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_75a8d9f3baec" alt="" />
+
+---
+
+
+### 懒人在思考
+
+本懒号主要关注点：隐私（包括加密货币）、攻击、安全开发。从我们这，你至少可以知道当下黑客世界的另类视角。By&nbsp;余弦@LanT34m
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_5d4286e791e1" alt="" />
 
 ---
 
