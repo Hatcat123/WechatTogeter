@@ -169,3 +169,12 @@ E安全&nbsp;|&nbsp;全球网络安全资讯新传媒&nbsp;&nbsp;&nbsp;&nbsp;新
 
 ---
 
+
+### 重生信息安全
+
+专注安全行业，分享最新安全咨询.
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_04cf6f9c3f3f" alt="" />
+
+---
+
