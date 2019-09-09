@@ -35,15 +35,6 @@ HACK学习，专注于互联网安全与黑客精神；渗透测试，社会工�
 ---
 
 
-### 小米安全中心
-
-小米安全中心（MiSRC）是致力于保障小米产品、业务线、用户信息等安全，促进与安全专家的合作与交流，而建立的漏洞收集及响应平台。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_2718d08f5227" alt="" />
-
----
-
-
 ### APT攻击
 
 记录网络攻防的小技巧
@@ -62,11 +53,29 @@ HACK学习，专注于互联网安全与黑客精神；渗透测试，社会工�
 ---
 
 
+### Web安全与前端
+
+分享Web安全与前端相关技术
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_fd004ddbc6d4" alt="" />
+
+---
+
+
 ### 91RI我的安全攻防指南
 
 91RI我的安全攻防指南
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_625903db7ac8" alt="" />
+
+---
+
+
+### Rapid7cn
+
+Nexpose,Metasploit,AppSpider,InsightIDR
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_c27e19653a68" alt="" />
 
 ---
 

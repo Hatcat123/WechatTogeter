@@ -179,11 +179,56 @@ E安全&nbsp;|&nbsp;全球网络安全资讯新传媒&nbsp;&nbsp;&nbsp;&nbsp;新
 ---
 
 
+### MottoIN
+
+互联网威胁情报社区
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_af32a7c58306" alt="" />
+
+---
+
+
+### 安全盒子
+
+安全盒子是一个专注于Web安全的网络媒体,致力于做国内高质量的安全社交圈子。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_b02942bb1a62" alt="" />
+
+---
+
+
+### 先知安全技术社区
+
+先知安全技术社区官方公众号
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_12f3517e40de" alt="" />
+
+---
+
+
 ### Sobug安全平台
 
 SOBUG是国内首家漏洞悬赏平台，通过聚集安全行业精英，为有安全意识和需求的各类企业提供专业化的网络安全服务，帮助企业避免因漏洞带来的安全风险和经济损失。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_591daf7b19e9" alt="" />
+
+---
+
+
+### ThreatHunter社区
+
+TH社区是国内首个专注于高级威胁发现与安全数据分析的社区
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_1b5a0b76fcff" alt="" />
+
+---
+
+
+### 行长叠报
+
+漏洞银行-行长叠报，最新的安全资讯/最全的黑客干货/最有料的业内伙伴，每时每刻连接热爱安全的你我。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_7c4ae6394108" alt="" />
 
 ---
 

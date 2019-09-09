@@ -116,6 +116,24 @@
 ---
 
 
+### 长亭科技
+
+长亭科技，顶尖的网络信息安全公司，专注为企业级用户提供专业的应用层安全解决方案。更多信息请访问：https://chaitin.cn.
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_9011eb4249b6" alt="" />
+
+---
+
+
+### 安云信息
+
+安云科技始终坚信“人才”是第一生产力，一直专注于信息安全人才的培养!1、开发“千机”信息安全攻防实训和竞赛产品&nbsp;;&nbsp;承办信息安全知识大赛,以赛促学，以赛促练&nbsp;;&nbsp;拥有经验丰富的精英讲师团队，常年为各大企业、院校提供安全培训&nbsp;！
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_673fd3fe14df" alt="" />
+
+---
+
+
 ### 安恒信息
 
 杭州安恒信息技术股份有限公司（DBAPPSecurity），全球网络安全创新500强，以自主可控的专利技术，致力于为客户提供Web应用安全、数据库安全、网站安全监测产品与服务、态势感知大数据中心及智慧城市云安全运营整体解决方案。
@@ -139,6 +157,15 @@
 东软网络安全
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_4762c773543c" alt="" />
+
+---
+
+
+### 安全威胁情报
+
+Threatbook微步在线，专业的安全威胁情报服务提供商。让您知己知彼掌控全局，面对安全威胁如同凌波微步般应对自如。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_aed83ab73350" alt="" />
 
 ---
 

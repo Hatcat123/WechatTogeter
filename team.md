@@ -197,6 +197,15 @@ secquan.org汇聚新锐&nbsp;共同进步
 ---
 
 
+### 百姓网技术团队
+
+这里汇集了百姓网技术团队的思考与沉淀，每周推送一篇技术文章，值得关注！
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_0bd935cd0e1b" alt="" />
+
+---
+
+
 ### T00ls
 
 T00ls，十年民间网络安全老牌社区，聚合安全领域最优秀的人群，低调研究潜心学习讨论各类网络安全知识，为推动中国网络安全进步与技术创新贡献力量！
@@ -215,11 +224,38 @@ OWASP中国，SecZone互联网安全研究中心官方平台
 ---
 
 
+### 铸剑网络安全实验室
+
+关注国内外网络安全，提供高质量的网络安全服务，培养网络空间安全顶尖人才，同时欢迎怀揣各种奇思妙想和创意的有志青年加入我们。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_0a3011978b79" alt="" />
+
+---
+
+
 ### ArkTeam
 
 攻与防，矛与盾，仗剑与Arkers走天涯
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_16875f8ce964" alt="" />
+
+---
+
+
+### 威胁猎人
+
+威胁猎人是一家专注于黑灰产对抗的创新型安全企业，基于对黑灰产的布控能力，为互联网、金融等行业提供反欺诈解决方案。核心产品包括：反欺诈监测平台、手机号画像、IP画像、业务欺诈评估等。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_eb6eb6a3c42f" alt="" />
+
+---
+
+
+### 网络安全社区悦信安
+
+一个专心研究网络安全技术的小团体，专为热爱或从事网络安全、信息安全、移动端逆向安全、二进制安全、web渗透测试等安全技术人员提供。&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;我们的主旨是低调求发展，潜心习技术。专攻术业！
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_a68dd0e61d37" alt="" />
 
 ---
 

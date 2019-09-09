@@ -197,6 +197,33 @@ caoz的心得与分享，只此一家，别无分号。
 ---
 
 
+### 危险解除
+
+看看这个光怪陆离的世界。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_b9817779d447" alt="" />
+
+---
+
+
+### 安全IT
+
+信息安全技术，自由分享共同进步
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_3883c6f6bf20" alt="" />
+
+---
+
+
+### 极客路标
+
+极客/黑客/黑科技与安全情报
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_984f83565bcf" alt="" />
+
+---
+
+
 ### lovesec
 
 专注信息安全/渗透测试
@@ -206,11 +233,74 @@ caoz的心得与分享，只此一家，别无分号。
 ---
 
 
+### LemonSec
+
+Security&nbsp;for&nbsp;life
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_8afb1d49c6bb" alt="" />
+
+---
+
+
+### n1nty
+
+记录平日所看所学。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_bac758065fce" alt="" />
+
+---
+
+
 ### 懒人在思考
 
 本懒号主要关注点：隐私（包括加密货币）、攻击、安全开发。从我们这，你至少可以知道当下黑客世界的另类视角。By&nbsp;余弦@LanT34m
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_5d4286e791e1" alt="" />
+
+---
+
+
+### 逢人斗智斗勇
+
+仅限技术研究与讨论，严禁用于非法用途，否则产生的一切后果自行承担！
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_1f96ca960fe6" alt="" />
+
+---
+
+
+### i小峰
+
+热爱互联网，热爱安全行业，希望专注做一件有趣的事情。&nbsp;分享自己从事安全职位的经验
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_ee41b9b2246f" alt="" />
+
+---
+
+
+### Thorns的安全分享
+
+安全技术交流和分享。~号主偶尔会神经质的发几篇跟安全无关的文章...
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_d98cd470fe17" alt="" />
+
+---
+
+
+### c00l安全
+
+安全技术的交流分享。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_852e9e854580" alt="" />
+
+---
+
+
+### 我的安全视界观
+
+大大的世界，小小的人儿；喜欢夜的黑，更爱昼的白。因为热爱安全，所以想起该做些什么了？！公众号主要将不定期分享个人所见所闻所感，包括但不限于：安全测试、漏洞赏析、渗透技巧、企业安全
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_fa77276f7d4b" alt="" />
 
 ---
 
