@@ -169,3 +169,21 @@ Threatbook微步在线，专业的安全威胁情报服务提供商。让您知�
 
 ---
 
+
+### 邑安全
+
+邑安全//江门邑安科技有限公司运营的订阅号。第一时间了解全球安全资讯、研讨最新信息安全技术和提供本地信息安全沙龙！
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_23ba87d75c01" alt="" />
+
+---
+
+
+### 网信防务
+
+运筹网络空间，汇聚大众力量
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_0523bbd0d401" alt="" />
+
+---
+
