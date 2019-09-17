@@ -178,12 +178,3 @@ Threatbook微步在线，专业的安全威胁情报服务提供商。让您知�
 
 ---
 
-
-### 网信防务
-
-运筹网络空间，汇聚大众力量
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_0523bbd0d401" alt="" />
-
----
-

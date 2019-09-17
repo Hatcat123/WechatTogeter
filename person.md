@@ -304,3 +304,12 @@ Security&nbsp;for&nbsp;life
 
 ---
 
+
+### 渗透攻防笔记
+
+分享个人渗透过程中的技巧与思路。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_81b1c78374d6" alt="" />
+
+---
+
