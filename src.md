@@ -115,12 +115,3 @@ LYSRC是目前唯一公开漏洞的SRC&nbsp;，欢迎提交漏洞&nbsp;https://s
 
 ---
 
-
-### 山石瞭望
-
-HSCERT是山石网科成立的威胁情报捕获，漏洞病毒预警，APT攻击分析，恶意软件分析，漏洞样本分析的安全研究能力中心
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_94beeafaf804" alt="" />
-
----
-
