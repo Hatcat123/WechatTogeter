@@ -1,7 +1,7 @@
 
 # awesome-security-weixin-official-accounts
 网络安全类公众号推荐
-本程序共分为13大类，收集公众号173个。收集优质文章在[微信聚合平台](http://www.baidu.com)展示。
+本程序共分为13大类，收集公众号176个。收集优质文章在[微信聚合平台](http://www.baidu.com)展示。
 
 - [目录分类]()
 	- [媒体社区类](#媒体社区类)
