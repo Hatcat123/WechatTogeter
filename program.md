@@ -115,3 +115,12 @@
 
 ---
 
+
+### GitChat
+
+在&nbsp;GitChat&nbsp;分享技术，用技术改变世界！GitBook.cn
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_70e5bd086d1e" alt="" />
+
+---
+

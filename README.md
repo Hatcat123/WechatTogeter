@@ -1,7 +1,9 @@
 
 # awesome-security-weixin-official-accounts
 网络安全类公众号推荐
-本程序共分为13大类，收集公众号180个。收集优质文章在[微信聚合平台](http://www.baidu.com)展示。
+本项目共分为13大类，收集公众号182个。
+收集优质文章在[微信聚合平台](http://47.100.199.103:8000)展示。
+点击分类详情可快速查看微信公众号二维码
 
 - [目录分类]()
 	- [媒体社区类](#媒体社区类)
@@ -137,6 +139,7 @@
 * [网络安全社区悦信安](/team.md#网络安全社区悦信安) :- 一个专心研究网络安全技术的小团体，专为热爱或从事网络安全、信息安全、移动端逆向安全、二进制安全、web渗透测试等安全技术人员提供。&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;我们的主旨是低调求发展，潜心习技术。专攻术业！ 
 * [米斯特安全团队](/team.md#米斯特安全团队) :- 一群热爱网络安全的青年们，能给互联网的安全带来什么？ 
 * [Ms08067安全实验室](/team.md#Ms08067安全实验室) :- Ms08067安全实验室官方公众号 
+* [贝塔安全实验室](/team.md#贝塔安全实验室) :- 致力于网络攻防技术的研究和分享！ 
 
 
 ---
@@ -258,6 +261,7 @@
 * [Python小屋](/program.md#Python小屋) :- 《Python程序设计（第2版）》《Python程序设计基础（第2版）》《Python可以这样学》《Python程序设计开发宝典》系列教材作者董付国老师的Python小屋，介绍Python语法基础、标准库、扩展库以及在各领域的应用。 
 * [SIGAI](/program.md#SIGAI) :- 全方位覆盖AI经典算法与工业应用，紧跟业界新趋势，让你始终站在技术前沿。 
 * [NightTeam](/program.md#NightTeam) :- 夜幕团队公众号，涉猎的编程语言包括&nbsp;Python、Rust、C++、Go，领域涵盖爬虫、深度学习、服务研发和对象存储等，反正谁先关注，谁先涨工资。 
+* [GitChat](/program.md#GitChat) :- 在&nbsp;GitChat&nbsp;分享技术，用技术改变世界！GitBook.cn 
 
 
 ---
@@ -289,8 +293,12 @@
 * [CSDN](/other.md#CSDN) :- 专业的中文&nbsp;IT&nbsp;技术社区，与千万技术人共成长。 
 * [一本黑](/other.md#一本黑) :- 此号是枚互联网从业者所开，旨在将互联网中的黑色产业、行业里鲜有人知的故事，从幕后带到大众面前，让圈外人也无障碍的理解。 
 
-
 ## Contribution
+
+[liran](https://github.com/liran)
+[lian](https://github.com/lian)
+
+##  Coder
 Avatar | ID 
 --- | --- |
 ![](https://avatars1.githubusercontent.com/u/28727970?s=30) | [Hatcat123](https://github.com/Hatcat123 )

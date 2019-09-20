@@ -277,3 +277,12 @@ Ms08067安全实验室官方公众号
 
 ---
 
+
+### 贝塔安全实验室
+
+致力于网络攻防技术的研究和分享！
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_23bdeb3e6091" alt="" />
+
+---
+
