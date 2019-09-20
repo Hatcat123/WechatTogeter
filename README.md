@@ -295,12 +295,12 @@
 
 ## Contribution
 
-[【liran】](https://github.com/liran)
-[【lian】](https://github.com/lian)
-[【q{name}](https://github.com/{name}](https://github.com/{name}{name}】](https://github.com/q{name}](https://github.com/{name}](https://github.com/{name}{name})
-[【w{name}](https://github.com/{name}】](https://github.com/w{name}](https://github.com/{name})
-[【e】](https://github.com/e)
-[【r】](https://github.com/r)
+【[liran](https://github.com/liran)】
+【[lian](https://github.com/lian)】
+【[q{name}](https://github.com/{name}](https://github.com/{name}{name}](https://github.com/q{name}](https://github.com/{name}](https://github.com/{name}{name})】
+【[w{name}](https://github.com/{name}](https://github.com/w{name}](https://github.com/{name})】
+【[e](https://github.com/e)】
+【[r](https://github.com/r)】
 
 ##  Coder
 Avatar | ID 
