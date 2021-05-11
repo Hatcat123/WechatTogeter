@@ -10,14 +10,14 @@
 
 ### i春秋
 
-专业的网络安全、信息安全、白帽子技术的培训平台及学习社区，60万安全用户的精准推荐。
+专业的网络安全、信息安全、白帽子技术的培训平台及学习社区，78万安全用户的精准推荐。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_d5c25339a9e5" alt="" />
 
 ---
 
 
-### 合天智汇
+### 合天网安实验室
 
 为广大信息安全爱好者提供有价值的文章推送服务！
 
@@ -28,16 +28,16 @@
 
 ### 极客公园
 
-用极客视角，追踪你最不可错过的科技圈。有快闻、也有洞见；有脑洞、也有思考。
+用极客视角，追踪你最不可错过的科技圈。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=wxid_7762007624712" alt="" />
 
 ---
 
 
-### 实验楼
+### 蓝桥云课精选
 
-实验楼是100万+技术学习者关注的IT在线实训平台，提供海量免费教程、技术干货和在线实验环境。官网www.shiyanlou.com
+蓝桥云课（原实验楼）是 200 万 + 技术学习者关注的 IT 在线实训平台，提供海量免费教程、技术干货和在线实验环境。官网 https://www.lanqiao.cn/
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_e794419207a0" alt="" />
 
@@ -46,7 +46,7 @@
 
 ### GeekPwn
 
-GeekPwn，全球首个关注智能生活的安全极客大赛！我们在寻找可能默默无闻但出类拔萃---注定可以改变世界、可以和我们一起保护未来的正能量---顶级&nbsp;Geek&nbsp;的思路、敢于&nbsp;Pwn&nbsp;破禁锢的你，这里是你的舞台，一起来，做到“极棒”！
+GeekPwn，全球首个关注智能生活的安全极客大赛！我们在寻找可能默默无闻但出类拔萃---注定可以改变世界、可以和我们一起保护未来的正能量---顶级 Geek 的思路、敢于 Pwn 破禁锢的你，这里是你的舞台，一起来，做到“极棒”！
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_72d9239e6429" alt="" />
 
@@ -73,7 +73,7 @@ GeekPwn，全球首个关注智能生活的安全极客大赛！我们在寻找�
 
 ### FreeBuf
 
-国内领先的互联网安全新媒体
+国内网络安全行业门户
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_7524f20253aa" alt="" />
 
@@ -127,7 +127,7 @@ V安全资讯是隶属于丝路安全团队（SRsec）旗下的一个以分享�
 
 ### E安全
 
-E安全&nbsp;|&nbsp;全球网络安全资讯新传媒&nbsp;&nbsp;&nbsp;&nbsp;新版门户站点：http://www.easyaq.com/
+E安全 | 全球网络安全资讯新传媒    新版门户站点：http://www.easyaq.com/
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_f2303a075517" alt="" />
 
@@ -136,7 +136,7 @@ E安全&nbsp;|&nbsp;全球网络安全资讯新传媒&nbsp;&nbsp;&nbsp;&nbsp;新
 
 ### 安全客
 
-打破黑箱&nbsp;&nbsp;客说安全
+打破黑箱  客说安全
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_c844687d05d6" alt="" />
 
@@ -145,7 +145,7 @@ E安全&nbsp;|&nbsp;全球网络安全资讯新传媒&nbsp;&nbsp;&nbsp;&nbsp;新
 
 ### 网络空间安全军民融合创新中心
 
-作为我国首个军地沟通、军地协同的网络空间安全军民融合发展产业平台，聚焦网络空间国防安全领域，探索建立网络国防安全装备建设的军民深度融合创新发展模式，致力于打造成为我军装备发展网络空间安全领域的民间智库。
+作为军地沟通、军地协同的网络空间安全发展产业平台，聚焦网络空间国防安全领域，探索建立网络国防安全建设创新发展模式，致力于打造网络空间安全领域的民间智库。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_987f797ad45e" alt="" />
 
@@ -172,7 +172,7 @@ E安全&nbsp;|&nbsp;全球网络安全资讯新传媒&nbsp;&nbsp;&nbsp;&nbsp;新
 
 ### 重生信息安全
 
-专注安全行业，分享最新安全咨询.
+专注安全行业，分享最新安全技术及咨询.
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_04cf6f9c3f3f" alt="" />
 
@@ -188,38 +188,11 @@ E安全&nbsp;|&nbsp;全球网络安全资讯新传媒&nbsp;&nbsp;&nbsp;&nbsp;新
 ---
 
 
-### 安全盒子
+### 阿里云应急响应
 
-安全盒子是一个专注于Web安全的网络媒体,致力于做国内高质量的安全社交圈子。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_b02942bb1a62" alt="" />
-
----
-
-
-### 先知安全技术社区
-
-先知安全技术社区官方公众号
+阿里云安全应急响应中心为云上客户提供最精准风险预警通告，基于云安全中心的威胁情报收集能力、分析能力、漏洞挖掘能力、应急响应处置能力为客户上云提供高效、精准，真实的漏洞威胁预警、重大安全事件预警。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_12f3517e40de" alt="" />
-
----
-
-
-### Sobug安全平台
-
-SOBUG是国内首家漏洞悬赏平台，通过聚集安全行业精英，为有安全意识和需求的各类企业提供专业化的网络安全服务，帮助企业避免因漏洞带来的安全风险和经济损失。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_591daf7b19e9" alt="" />
-
----
-
-
-### ThreatHunter社区
-
-TH社区是国内首个专注于高级威胁发现与安全数据分析的社区
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_1b5a0b76fcff" alt="" />
 
 ---
 
@@ -238,6 +211,51 @@ TH社区是国内首个专注于高级威胁发现与安全数据分析的社区
 运筹网络空间，汇聚大众力量
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_0523bbd0d401" alt="" />
+
+---
+
+
+### 维他命安全
+
+信息安全那些事儿
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_cf325e4d8d77" alt="" />
+
+---
+
+
+### 安全圈
+
+专注网络安全：网罗圈内热点事件，细说安全风云变幻！
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_834eaaa98a10" alt="" />
+
+---
+
+
+### 安全帮
+
+安全帮，是中国电信基于专业安全能力自主研发的云安全服务平台，包含“1+4”产品体系。“1”：SaaS云安全服务电商；“4”：SDS分布式调度管理系统、安全能力开放平台、安全大数据平台、安全态势感知平台。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_3610044e9ffe" alt="" />
+
+---
+
+
+### CNCERT风险评估
+
+CNCERT风险评估与软硬件安全相关动态信息分享
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_4649b3addf2d" alt="" />
+
+---
+
+
+### 白帽子社区
+
+一个长期专注信息安全技术领域的公众号。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_9e14730cd918" alt="" />
 
 ---
 
